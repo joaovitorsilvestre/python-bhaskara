@@ -12,3 +12,6 @@ def bhaskara(a,b,c):
 def pitagoras(a,b):
     c = ((a**2)+(b**2))**0.5
     return(c)
+
+def porcentagem(porcem, num):
+    return (num*(porcem/100))
